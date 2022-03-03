@@ -1,1 +1,1 @@
-# Machine-Learning-Theroy-Codes
+# Machine Learning Theory Codes
