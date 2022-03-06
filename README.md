@@ -4,3 +4,4 @@
 2) Logistic regression
 3) Decision tree
 4) KNN
+5) Ensemble Learning
